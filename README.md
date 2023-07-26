@@ -1,7 +1,9 @@
 # Google Data Analytics Case Study
-Capstone project completed as part of the Google Data Analytics Certification.
+I recently decided to complete the Google Data Analytics certification to provide evidence of my data analysis skills and to check my data analysis knowledge.
+The certification ends with a capstone project, performing your own case study. We were provided 2 topics to choose from or you can find your own. I chose the Bellabeat case study.
 
-I chose the Bellabeat case study for my project.
+Bellabeat is a women's wellness company. They develop wearable fitness trackers for women as well as other health-focused products, including an app and a water bottle that tracks your water intake.
+The purpose of this case study is to leverage smart device user data to influence Bellabeat's marketing strategy. As the junior data analyst in the scenario, my job is to analyze the provided Fitbit dataset and deliver the insights derived to the executive team which will then be used to influence our marketing strategy.
 
 My original Kaggle notebook can be found [here.](https://www.kaggle.com/paigecrossley/case-study-bellabeat)
 
